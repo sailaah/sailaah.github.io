@@ -1,0 +1,40 @@
+body {
+    background-image: url('bg.jpeg');
+    background-repeat: no-repeat;
+    background-size: 1350px 570px;
+}
+
+.image1 { 
+    position: fixed;
+    bottom: 0px;
+    left: 350px;
+    height: 350px;
+}
+
+.image2 { 
+    position: fixed;
+    left: -200px;
+    bottom: -30px;
+    width: 800px;
+    height: 600px;
+}
+.image3 { 
+    position: fixed;
+    bottom: 0px;
+    left: 700px;
+    width: 850px;
+    height: 530px;
+}
+
+h1{ 
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: aliceblue;
+    position: fixed;
+    bottom: 300px;
+    left: 300px;
+    font-size: 60px;
+    rotate: 18deg;
+    position: absolute;
+    
+
+}
